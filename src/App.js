@@ -90,8 +90,11 @@ class App extends Component {
                 <Col md={12}>
 
    <h3>Search</h3>
-
-                    <Form
+<hr />
+<p> The Springer MarkLogic database contains the A++ available on several sites. 
+You can either search the entire database (All Sites), 
+or choose a particular webiste that the A++ will appear on (such as SpringerLink).</p>
+                      <Form
                         name="basic"
                         schema={schema}
                         value={this.state.value}
@@ -111,11 +114,17 @@ class App extends Component {
 
 <h3>Search statement(s)</h3>
 
+<hr />
 
                         <Chooser field="element_name" width={200} choiceList={elementList} />
                         <TextEdit field="element_value" width={200} />
                         <TextEdit field="attribute_name" width={200} />
                         <TextEdit field="attribute_value" width={200} />
+
+
+
+<hr />
+
                         {!this.state.submit ? (
                             <Button
                                 className="btn btn-success"
