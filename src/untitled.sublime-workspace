@@ -1,0 +1,503 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"elem",
+				"elementList"
+			],
+			[
+				"site",
+				"siteSelectorList"
+			],
+			[
+				"text",
+				"text-indent\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"in",
+				"text-indent\tproperty"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"Element",
+				"ElementSuggestions"
+			],
+			[
+				"a",
+				"Autosuggest"
+			],
+			[
+				"Si",
+				"SiteSelector"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"en",
+				"encodeddoi"
+			],
+			[
+				"doi",
+				"doiArray"
+			],
+			[
+				"encod",
+				"encodedEmail"
+			],
+			[
+				"pathol",
+				"pathology-journal-ids"
+			],
+			[
+				"path",
+				"pathology-journal-ids"
+			],
+			[
+				"ur",
+				"urology-journal-ids"
+			],
+			[
+				"radiol",
+				"radiology-journal-ids"
+			],
+			[
+				"sur",
+				"surgery-journal-ids"
+			],
+			[
+				"pub",
+				"public-health-journal-ids"
+			],
+			[
+				"tox",
+				"toxicology-journal-ids"
+			],
+			[
+				"on",
+				"oncology-journal-ids"
+			],
+			[
+				"nucl",
+				"nuclear-medicine-journal-ids"
+			],
+			[
+				"bi",
+				"bioMedicines-journal-ids"
+			],
+			[
+				"bib",
+				"bibtex"
+			],
+			[
+				"un",
+				"unsucessfulDOIs"
+			],
+			[
+				"col",
+				"col_data"
+			],
+			[
+				"art",
+				"articleTitle"
+			],
+			[
+				"xml",
+				"xml_doc"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"api",
+				"apikey"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/mart13/Documents/GitHub.nosync/ml-search-frontend/public/index.html",
+			"settings":
+			{
+				"buffer_size": 1804,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 4605,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "elementNames.js",
+			"settings":
+			{
+				"buffer_size": 36852,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"MarkLogic: Set Xcc Modules Database"
+			],
+			[
+				"ssxquer",
+				"Set Syntax: XQuery"
+			],
+			[
+				"Package Control: i",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"npm start",
+			"npm install tcomb-form-native",
+			"pwd",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"cd /users/mart13",
+			"./springerSpritz.rb"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-frontend",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-frontend/public",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-frontend/src"
+	],
+	"file_history":
+	[
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/src/elementNames.js",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/src/elementsToSuggest.js",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/src/App.css",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/src/index.css",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/src/autosuggest.js",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/package.json",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/src/index.js",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/src/togglebuttonproblem.js",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/node_modules/postcss-selector-parser/dist/index.js",
+		"/Users/mart13/Documents/GitHub.nosync/react-test-app/react-test-app/src/elementNames.js",
+		"/Users/mart13/Desktop/API stuff/unassociateBPs_v2.rb",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/src/index.html",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/src/App.test.js",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/node_modules/tcomb-form-native/index.js",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/node_modules/tcomb-form-native/README.md",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/node_modules/tcomb-form-native/lib/stylesheets/bootstrap.js",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/node_modules/tcomb/index.js",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/node_modules/tcomb-form-native/lib/index.js",
+		"/Users/mart13/Documents/GitHub.nosync/ml-search-utility/src/App.js",
+		"/Users/mart13/Desktop/marklogicqueries/element-query.xqy",
+		"/Users/mart13/Desktop/API stuff/bibtex output.rb",
+		"/Users/mart13/Documents/GitHub.nosync/published-with/src/main/resources/database.json",
+		"/Users/mart13/Desktop/API stuff/jimmys_bp_getter.rb",
+		"/Users/mart13/Desktop/material_IDs.txt",
+		"/Users/mart13/Desktop/excluded-journals.txt",
+		"/Users/mart13/Library/Application Support/Sublime Text 3/Packages/MarkLogic/MarkLogic.sublime-settings",
+		"/Users/mart13/Desktop/API stuff/deleteddois.txt",
+		"/Users/mart13/Desktop/joergsGrantSearch.txt",
+		"/Users/mart13/Desktop/API stuff/deleteddois.rb",
+		"/Users/mart13/Desktop/API stuff/methods.rb",
+		"/Users/mart13/Desktop/Book materials.txt",
+		"/Users/mart13/Documents/GitHub.nosync/ml-materials/src/materials/specialities.xqy",
+		"/Users/mart13/Desktop/text.csv",
+		"/Users/mart13/Desktop/refconvertRIS.ris",
+		"/Users/mart13/Desktop/Untitled.ris",
+		"/Users/mart13/Desktop/10.1007:978-3-319-67199-4 HTML grants.txt",
+		"/Users/mart13/Desktop/scripts_for_support/linkBibMaker/linkBibMaker.rb",
+		"/Users/mart13/Downloads/978-90-313-9082-3_Book.xml",
+		"/Users/mart13/Downloads/10570_2015_589_MOESM1_ESM.cif",
+		"/Users/mart13/Documents/GitHub.nosync/springerSpritz/springerSpritz.rb",
+		"/Users/mart13/Downloads/local.bib",
+		"/Users/mart13/Desktop/XML document 2",
+		"/Users/mart13/Documents/GitHub.nosync/published-with/src/main/resources/XML document",
+		"/Users/mart13/Downloads/978-3-319-61252-2_Book.xml",
+		"/Users/mart13/Downloads/Unit-Export-18547409/attr.xml",
+		"/Users/mart13/Downloads/10.1186%2F1471-2407-13-355.bib",
+		"/Users/mart13/Downloads/100371.jpg",
+		"/Users/mart13/Documents/GitHub.nosync/springerlink-wiki/springerlink-support-tools/checkCrossrefAndContent.rb",
+		"/Users/mart13/Desktop/API stuff/checkCrossrefAndContent.rb",
+		"/Users/mart13/Desktop/API stuff/dois.txt",
+		"/Users/mart13/Desktop/diff/secondDelivery",
+		"/Users/mart13/Downloads/gemfile",
+		"/Users/mart13/Downloads/978-3-319-08275-2_Generic.xml",
+		"/Users/mart13/Desktop/diff/results on SL.txt",
+		"/Users/mart13/Desktop/API stuff/results on SL.txt",
+		"/Users/mart13/Desktop/API stuff/abstract.txt",
+		"/Users/mart13/Desktop/springerapi.rb",
+		"/Users/mart13/Desktop/crossrefapi",
+		"/Users/mart13/Desktop/testcrossref.rb",
+		"/Users/mart13/Downloads/978-3-319-24595-9_Book.xml"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 172.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"},",
+			"label:",
+			"site_selector",
+			"name:",
+			"bookmarked",
+			"disableSubmit",
+			"\"email\"",
+			"\"Last name\"",
+			"last_name",
+			"First name",
+			"first_name"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/mart13/Documents/GitHub.nosync/ml-search-frontend/public/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1804,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								754
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1339,
+								1339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "elementNames.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 36852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36851,
+								36851
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.ml_run_output":
+	{
+		"height": 294.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 270.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
