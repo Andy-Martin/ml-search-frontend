@@ -36,10 +36,8 @@ class App extends Component {
             hasMissing: false,
             hasErrors: false,
             value: Immutable.Map({
-            element_name: "BookInfo",
-            element_value: "",
-            attribute_name: "",
-            attribute_value: ""
+                element_name: "BookInfo",
+                site_selector: "RD",
             })
         };
     }
@@ -74,12 +72,25 @@ class App extends Component {
         <Grid>
             <Row>
                 <Col md={12}>
-                    <h1>Search Statement</h1>
+                    <h1>ML Search Utility</h1>
                 </Col>
             </Row>
 
+<div className="App-intro">     
+          <h4> Example xml</h4>
+            <p>This is a how our xml looks with the names of the <i>things</i> written in their place:</p>
+             
+          <div className="Xml-example">
+            <code>&lt;Element Attribute="Attribute Value"&gt;Element Value&lt;Element&gt; </code>
+          </div>
+        </div>   
+<hr />
+
             <Row>
                 <Col md={12}>
+
+   <h3>Search</h3>
+
                     <Form
                         name="basic"
                         schema={schema}
@@ -97,6 +108,8 @@ class App extends Component {
                         <Chooser field="site_selector" width={300} disableSearch={false} choiceList={siteSelectorList}/>
                         <hr />
 
+
+<h3>Search statement(s)</h3>
 
 
                         <Chooser field="element_name" width={200} choiceList={elementList} />
